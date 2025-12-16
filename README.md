@@ -33,7 +33,6 @@ I enjoy creating simple, functional, and user-friendly web applications.
 - GitHub: https://github.com/ladybie19 
 - Email: tacislady@email.com  
 - Facebook/Instagram: Ladybie Duque Tacis /_urladybiee
-- Age : 19 
 
 ---
 
